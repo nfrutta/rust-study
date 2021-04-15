@@ -1,3 +1,4 @@
-/target
-rs_3_1_variables/.DS_Store
-rs_3_1_variables/target
+*/target
+
+/.DS_Store
+*/.DS_Store
